@@ -5,7 +5,7 @@ Standard library only; the sandbox has no network and does not need one.
 
 import os
 
-JOKE = "The live demo crashed, so my agent marked the client as flaky and retried him twice."
+JOKE = "The live demo crashed, so my agent marked the client flaky and retried him until he passed."
 
 
 def main():
