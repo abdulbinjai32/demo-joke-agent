@@ -5,7 +5,7 @@ Standard library only; the sandbox has no network and does not need one.
 
 import os
 
-JOKE = "The live demo crashed, so my agent added the client to .gitignore and pushed."
+JOKE = "Mid-demo my agent paused the fix to ask permission to run it, so the client approved it instead."
 
 
 def main():
